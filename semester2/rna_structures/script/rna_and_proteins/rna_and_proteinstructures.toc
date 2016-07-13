@@ -1,0 +1,33 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Formale Sprachen}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}formale Grammatik G}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Klassifikation von formalen Sprachen}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Hidden Markov Model}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Einleitung}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}RNA}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}R/DNA-Sekund\IeC {\"a}rstruktur}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Strukturabbildungen}{7}{subsection.2.3}
+\contentsline {section}{\numberline {3}Strukturvorhersage}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Nussinov}{10}{subsection.3.1}
+\contentsline {section}{\numberline {4}McCaskill}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Turner-Modell (Nearest-Neighbor-Modell)}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Zuker-Algorithmus}{13}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}suboptimales Falten}{13}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Wuchty-Algorithmus}{13}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Wuchty-Backtracking}{13}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}McCaskill}{13}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}stochastisches Backtracking}{13}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Strukturvorhersagen verbessern}{13}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Konsensusstrukturvorhersagen}{13}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Wie kann RNA evolvieren?}{13}{subsection.4.8}
+\contentsline {subsubsection}{\numberline {4.8.1}Neutrale Netzwerke}{13}{subsubsection.4.8.1}
+\contentsline {subsubsection}{\numberline {4.8.2}SHAPE-Abstraktion}{13}{subsubsection.4.8.2}
+\contentsline {subsubsection}{\numberline {4.8.3}Energielandschaften}{13}{subsubsection.4.8.3}
+\contentsline {subsubsection}{\numberline {4.8.4}Faltungskinetik}{13}{subsubsection.4.8.4}
+\contentsline {subsubsection}{\numberline {4.8.5}Barriers Trees}{13}{subsubsection.4.8.5}
+\contentsline {subsubsection}{\numberline {4.8.6}Flooding-Algorithmus}{13}{subsubsection.4.8.6}
+\contentsline {subsubsection}{\numberline {4.8.7}Co-transcriptional folding}{13}{subsubsection.4.8.7}
+\contentsline {section}{\numberline {5}weitere Bindungsarten, erlaubte Basenpaare}{14}{section.5}
+\contentsline {section}{\numberline {6}Proteine}{15}{section.6}
+\contentsline {section}{\numberline {7}Sekund\IeC {\"a}rstrukturelemente}{16}{section.7}
+\contentsline {subsection}{\numberline {7.1}Chou-Fasman (Sekund\IeC {\"a}rstrukturvorhersage von Proteinen)}{16}{subsection.7.1}

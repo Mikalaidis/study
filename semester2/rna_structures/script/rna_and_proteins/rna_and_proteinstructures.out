@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Formale Sprachen}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{formale Grammatik G}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Klassifikation von formalen Sprachen}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Hidden Markov Model}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Einleitung}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{RNA}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{R/DNA-Sekund\344rstruktur}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Strukturabbildungen}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Strukturvorhersage}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Nussinov}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{McCaskill}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Turner-Modell \(Nearest-Neighbor-Modell\)}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Zuker-Algorithmus}{section.4}% 13
+\BOOKMARK [3][-]{subsubsection.4.2.1}{suboptimales Falten}{subsection.4.2}% 14
+\BOOKMARK [2][-]{subsection.4.3}{Wuchty-Algorithmus}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Wuchty-Backtracking}{subsection.4.3}% 16
+\BOOKMARK [2][-]{subsection.4.4}{McCaskill}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.5}{stochastisches Backtracking}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.6}{Strukturvorhersagen verbessern}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.7}{Konsensusstrukturvorhersagen}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.8}{Wie kann RNA evolvieren?}{section.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.8.1}{Neutrale Netzwerke}{subsection.4.8}% 22
+\BOOKMARK [3][-]{subsubsection.4.8.2}{SHAPE-Abstraktion}{subsection.4.8}% 23
+\BOOKMARK [3][-]{subsubsection.4.8.3}{Energielandschaften}{subsection.4.8}% 24
+\BOOKMARK [3][-]{subsubsection.4.8.4}{Faltungskinetik}{subsection.4.8}% 25
+\BOOKMARK [3][-]{subsubsection.4.8.5}{Barriers Trees}{subsection.4.8}% 26
+\BOOKMARK [3][-]{subsubsection.4.8.6}{Flooding-Algorithmus}{subsection.4.8}% 27
+\BOOKMARK [3][-]{subsubsection.4.8.7}{Co-transcriptional folding}{subsection.4.8}% 28
+\BOOKMARK [1][-]{section.5}{weitere Bindungsarten, erlaubte Basenpaare}{}% 29
+\BOOKMARK [1][-]{section.6}{Proteine}{}% 30
+\BOOKMARK [1][-]{section.7}{Sekund\344rstrukturelemente}{}% 31
+\BOOKMARK [2][-]{subsection.7.1}{Chou-Fasman \(Sekund\344rstrukturvorhersage von Proteinen\)}{section.7}% 32
